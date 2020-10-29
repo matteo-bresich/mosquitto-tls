@@ -27,5 +27,5 @@ Send data with:
 ```
 Receive data with:
 ```
-./mqtt-client-pub.sh
+./mqtt-client-sub.sh
 ```
